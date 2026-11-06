@@ -1,0 +1,18 @@
+# Mai nel repository: fatture scaricate, estrazioni, pagine e schermate del portale (dati personali)
+fatture_ade/
+estrazioni_mensili/
+*.xml
+*.p7m
+*.zip
+*.xlsx
+*.xls
+*.csv
+*.html
+*.png
+*.fdb
+
+# Generati / di sistema
+__pycache__/
+*.pyc
+.DS_Store
+.!*

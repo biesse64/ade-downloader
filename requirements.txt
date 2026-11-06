@@ -1,0 +1,4 @@
+playwright          # download_fatture_completo.py (poi: python3 -m playwright install firefox)
+pandas              # strumenti/
+openpyxl            # strumenti/
+firebirdsql         # strumenti/estrai_fatture.py (archivio Danea)
